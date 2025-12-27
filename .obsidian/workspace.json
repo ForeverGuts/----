@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a46f97eb450300a",
+        "id": "cd25c2127560ba8e",
         "type": "tabs",
         "children": [
           {
-            "id": "2230cb310920511f",
+            "id": "735eade2d800edbe",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "HTTP/大纲.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "大纲"
             }
           }
         ]
@@ -196,9 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2230cb310920511f",
+  "active": "735eade2d800edbe",
   "lastOpenFiles": [
+    "HTTP/HTTP请求方法.md",
     "HTTP/HTTP请求参数.md",
+    "HTTP/HTTP请求.md",
+    "templates/名字.md",
     "HTTP/HTTP请求头.md",
     "HTTP/HTTP响应.md",
     "附件/Pasted image 20251226152850.png",
@@ -208,15 +211,12 @@
     "附件/Pasted image 20251226150917.png",
     "附件/Pasted image 20251226150844.png",
     "附件/Pasted image 20251226150829.png",
-    "HTTP/HTTP请求.md",
     "HTTP/大纲.md",
     "HTTP/Httpbin.org.md",
-    "HTTP/HTTP请求方法.md",
     "附件/Pasted image 20251226150541.png",
     "附件/Pasted image 20251226144745.png",
     "附件/Pasted image 20251226144554.png",
     "文件/9.PATCH.md",
-    "templates/名字.md",
     "附件",
     "未命名.md",
     "HTTP",
