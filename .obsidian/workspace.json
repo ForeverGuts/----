@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文件/Http概念.md",
+                "file": "HTTP/HTTP请求参数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Http概念"
-            }
-          },
-          {
-            "id": "f213bb0b522188d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文件/Http概念.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Http概念"
-            }
-          },
-          {
-            "id": "e1295ef726173b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文件/Http概念.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Http概念"
+              "title": "HTTP请求参数"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文件/Http概念.md",
+                "file": "HTTP/HTTP请求参数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Http概念 的反向链接列表"
+              "title": "HTTP请求参数 的反向链接列表"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文件/Http概念.md",
+                "file": "HTTP/HTTP请求参数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Http概念 的出链列表"
+              "title": "HTTP请求参数 的出链列表"
             }
           },
           {
@@ -193,46 +164,66 @@
               "icon": "lucide-list",
               "title": "Http概念 的大纲"
             }
+          },
+          {
+            "id": "c253e0fe1246043d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 486.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
       "graph:查看关系图谱": false,
       "bases:创建新数据库": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "canvas:新建白板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1295ef726173b03",
+  "active": "2230cb310920511f",
   "lastOpenFiles": [
-    "附件/Pasted image 20251225205630.png",
-    "附件/Pasted image 20251225205423.png",
-    "附件/Pasted image 20251225213301.png",
-    "文件/Http概念.md",
-    "附件/Pasted image 20251225205410.png",
+    "HTTP/HTTP请求头.md",
+    "HTTP/HTTP响应.md",
+    "附件/Pasted image 20251226152850.png",
+    "附件/Pasted image 20251226152838.png",
+    "附件/Pasted image 20251226152421.png",
+    "附件/Pasted image 20251226151625.png",
+    "附件/Pasted image 20251226150917.png",
+    "附件/Pasted image 20251226150844.png",
+    "附件/Pasted image 20251226150829.png",
+    "HTTP/HTTP请求参数.md",
+    "HTTP/HTTP请求.md",
+    "HTTP/大纲.md",
+    "HTTP/Httpbin.org.md",
+    "HTTP/HTTP请求方法.md",
+    "附件/Pasted image 20251226150541.png",
+    "附件/Pasted image 20251226144745.png",
+    "附件/Pasted image 20251226144554.png",
+    "文件/9.PATCH.md",
+    "templates/名字.md",
     "附件",
     "未命名.md",
-    "文件",
+    "HTTP",
     "未命名 1.md",
-    "templates/名字.md",
     "templates",
-    "Pasted image 20251225205444.png",
-    "Pasted image 20251225205553.png",
-    "Pasted image 20251225205511.png",
     "HTTP概念.canvas",
-    "Pasted image 20251225204822.png",
-    "Pasted image 20251225204740.png",
     "2025-12-25.md",
-    "Pasted image 20251225204813.png",
     "概念.md",
     "未命名 3.base",
     "未命名.base",
